@@ -1,4 +1,7 @@
-"""Basic arithmetic operations for the scientific calculator."""
+"""Basic arithmetic operations for the scientific calculator.
+
+Each function takes two numeric arguments and returns a numeric result.
+"""
 
 
 def add(a: float, b: float) -> float:

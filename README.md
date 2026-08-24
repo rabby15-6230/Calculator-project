@@ -15,3 +15,10 @@ Run from the command line:
 Or import the functions directly in a Python shell:
 
     from calculator import add
+
+Or launch the graphical version:
+
+    python3 gui.py
+
+(Uses Tkinter, which ships with standard Python installs. On some Linux
+distros you may need to install it separately, e.g. `sudo apt install python3-tk`.)

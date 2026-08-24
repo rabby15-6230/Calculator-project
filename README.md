@@ -7,5 +7,11 @@ A command-line scientific calculator written in pure Python.
 - Scientific operations: power, sqrt
 
 ## Usage
-Run the calculator module functions directly from a Python shell, e.g.
-`from calculator import add`.
+Run from the command line:
+
+    python main.py add 2 3
+    python main.py sqrt 16
+
+Or import the functions directly in a Python shell:
+
+    from calculator import add
